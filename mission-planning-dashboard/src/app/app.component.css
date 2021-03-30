@@ -1,4 +1,26 @@
 .box {
     display: flex;
     padding: 10px;
+    background-color:lightcoral;
+    margin: auto;
+    width: 50%;
+    border: 3px solid white;
+    padding: 10px;
+}
+
+.boxTextContainer {
+    display: flex;
+    padding: 10px;
+    margin: auto;
+}
+
+body {
+    background-color: pink;
+    margin: auto 10px;
+    width: auto;
+    height: 1265px;
+}
+
+html {
+    background-color: yellow;
 }
